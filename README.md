@@ -75,7 +75,7 @@ API access may incur charges. Check your account's current pricing, usage limits
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/codementor-ai.git
+https://github.com/nandakishore-collab/codementor-ai.git
 cd codementor-ai
 ```
 
